@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+KahaPutha+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+BSE+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+Sri+Lanka+%F0%9F%87%AE%F0%9F%87%B3;I+am+a+Learner+%F0%9F%93%88;Please+Support+Subscribe+and+Follow+%E2%9A%99%EF%B8%8F" alt="Sahid" width="650" height="55">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&pause=1000&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey%2C+It's+KahaPutha;I+am+a+BSE+student;I+am+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;I+am+a+learner;Please+subscribe+and+follow+me" alt="Typing SVG" /></a>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
