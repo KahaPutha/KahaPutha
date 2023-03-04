@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **android, Mearn**
+- 💬 Ask me about **Android, Microsoft Computer**
 
 - 📫 How to reach me **slkahaputha100@gmail.com**
 
